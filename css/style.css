@@ -57,11 +57,11 @@ tr:nth-child(3n) td {border-bottom: 2px solid #000000;}
 .buttons{
   text-align: center;
 }
-.reset, .solve{
+.reset, .solve, .create{
   display: inline-block;
 }
 
-.solve button,.reset button{
+.solve button,.reset button, .create button{
   margin: 20px;
   float: left;
   width: 150px;
